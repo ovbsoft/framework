@@ -1,0 +1,10 @@
+.radio span{
+    padding-right: 12px;
+}
+.radio span:last-child{
+    padding-right: 0;
+}
+.radio input{
+    position: relative;
+    top: 1px;
+}
